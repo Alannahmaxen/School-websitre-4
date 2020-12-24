@@ -1,0 +1,51 @@
+body{
+    text-align:center;
+}
+li{
+       float:left;
+}
+    
+html{
+    scroll-behavior: smooth;
+}
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index: 99999;
+    
+}
+p{
+    font-size:20px;
+}
+#2{
+    height:200px;
+    width:300px;
+}
+h4{
+  
+font-size:26px;
+}
+.alumni_li
+{
+  margin-top: 13px;
+}
+
+.alumni_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.alumni_li img
+{
+  border-radius: 25px;
+}
+
+.alumni_li p
+{
+  margin-top:10px;
+}
+#1{
+    height: 200px;
+   
+}
